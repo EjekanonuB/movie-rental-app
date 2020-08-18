@@ -267,3 +267,17 @@ body {
   text-align: cen;
   text-shadow: 3px 3px 3px rgba(64, 64, 64, 0.9);
 }
+
+#storepage {
+  max-width: 900px;
+  margin: 40px auto 50px auto;
+  background-color: #fff;
+  padding: 50px 20px;
+  box-shadow: 15px 15px 15px rgba(64, 64, 64, 0.9);
+  display: flex;
+}
+
+#storepage h2 {
+  text-align: cen;
+  text-shadow: 3px 3px 3px rgba(64, 64, 64, 0.9);
+}
