@@ -203,8 +203,6 @@ body {
   padding-left: 10px;
   border: 1px solid lightblue;
   box-shadow: 7px 7px 7px rgba(64, 64, 64, 0.9);
-
-
 }
 
 #contactform button {
@@ -212,5 +210,20 @@ body {
   height: 50px;
   background-color: #808080;
   box-shadow: 7px 7px 7px rgba(64, 64, 64, 0.9);
+}
 
+/* ABOUT PAGE STYLING... */
+
+#aboutpage {
+  max-width: 900px;
+  margin: 40px auto 50px auto;
+  background-color: #fff;
+  padding: 50px 20px;
+  box-shadow: 15px 15px 15px rgba(64, 64, 64, 0.9);
+  display: flex;
+}
+
+#aboutpage h2 {
+  text-align: center;
+  text-shadow: 3px 3px 3px rgba(64, 64, 64, 0.9);
 }
